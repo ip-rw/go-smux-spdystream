@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	ss "github.com/docker/spdystream"
+	ss "github.com/moby/spdystream"
 	smux "github.com/libp2p/go-stream-muxer"
 )
 
